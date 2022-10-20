@@ -1,2 +1,2 @@
 Task 0
-Im creating a function and calling it to perform certain actions.
+creates a function and calls it to perform tasks.
