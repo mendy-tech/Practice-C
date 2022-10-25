@@ -11,14 +11,14 @@ int main(void)
 	int toppers[6];
 	int i;
 
-	printf("Enter the numbers:");
+	printf("Enter the numbers\n");
 	for (i = 0; i < 6; i++)
 	{
 		scanf("%d", &toppers[i]);
-		printf("Elements of array are:");
 	}
 	for (i = 0; i < 6; i++)
 	{
+
 		printf("%d\n", toppers[i]);
 	}
 		return (0);
